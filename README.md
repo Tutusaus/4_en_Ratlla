@@ -41,16 +41,16 @@ cd 4_en_Ratlla
 ```
 
 ### Compile the Code
-\`\`\`bash
+```bash
 gcc main.c -o boardgame
-\`\`\`
+```
 
 ## Usage
 Once compiled, you can run the game by executing:
 
-\`\`\`bash
+```bash
 ./boardgame
-\`\`\`
+```
 
 ### Gameplay Instructions
 - The game starts with an empty 8x8 board.
