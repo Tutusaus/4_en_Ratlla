@@ -1,7 +1,8 @@
 
 # 📊 AI-Powered Board Game in C
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Game+Screenshot) <!-- Replace with an actual screenshot if available -->
+![Game Screenshot](![main](https://github.com/user-attachments/assets/fca46432-0861-42bd-b591-cf135e3a7a5d)
+) <!-- Replace with an actual screenshot if available -->
 
 ## Table of Contents
 - [Introduction](#introduction)
