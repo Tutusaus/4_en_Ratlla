@@ -42,14 +42,14 @@ cd 4_en_Ratlla
 
 ### Compile the Code
 ```bash
-gcc main.c -o boardgame
+gcc main.c -o main
 ```
 
 ## Usage
 Once compiled, you can run the game by executing:
 
 ```bash
-./boardgame
+main.exe
 ```
 
 ### Gameplay Instructions
