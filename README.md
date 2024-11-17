@@ -37,7 +37,7 @@ Follow these steps to set up the game on your local machine:
 ### Clone the Repository
 ```bash
 git clone https://github.com/Tutusaus/4_en_Ratlla.git
-cd 4_en_Ratlla
+cd .\4_en_Ratlla\
 ```
 
 ### Compile the Code
